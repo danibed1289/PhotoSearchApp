@@ -1,2 +1,2 @@
 # PhotoSearchApp
-It's an Android App showing a list of images from Flickr. It's a fork from another repo.
+It's an Android App showing a list of images from Flickr. It's a fork from another repo. This is a new modification.
